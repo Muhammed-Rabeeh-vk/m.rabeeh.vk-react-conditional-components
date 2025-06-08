@@ -198,6 +198,8 @@ The current version includes only the core components. Future enhancements plann
 
 - Utility wrappers for complex logic
 - Better async condition handling
-
+# License
+   MIT [@m/rabeeh.vk](./License)
+# Github
 [https://github.com/Muhammed-Rabeeh-vk/m.rabeeh.vk-react-conditional-components](https://github.com/Muhammed-Rabeeh-vk/m.rabeeh.vk-react-conditional-components)
 
