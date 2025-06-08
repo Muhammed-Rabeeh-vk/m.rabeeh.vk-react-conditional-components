@@ -1,0 +1,24 @@
+
+.app-container {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.demo-section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #000000;
+  border-radius: 8px;
+}
+
+.code-section pre {
+  background: #1e1e1e;
+  color: #dcdcdc;
+  padding: 1rem;
+  overflow-x: auto;
+  border-radius: 6px;
+}
+.code-section code {
+  color: #dcdcdc;
+  font-family: 'Courier New', Courier, monospace;
+}

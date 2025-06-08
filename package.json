@@ -1,0 +1,39 @@
+{
+  "name": "@m.rabeeh.vk/react-conditional-components",
+  "version": "1.0.0",
+  "description": "A lightweight set of readable conditional rendering utilities for React, including <If>, <Switch>, <Case>, and <Default>.",
+  "main": "./src/index.js",
+  "module": "./src/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "react",
+    "conditional-rendering",
+    "jsx",
+    "react-components",
+    "if",
+    "switch",
+    "ternary",
+    "react-utils"
+  ],
+  "author": "M. Rabeeh VK <m.rabeeh.vk@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Muhammed-Rabeeh-vk/m.rabeeh.vk-react-conditional-components"
+  },
+  "bugs": {
+    "url": "https://github.com/Muhammed-Rabeeh-vk/m.rabeeh.vk-react-conditional-components/issues"
+  },
+  "homepage": "https://github.com/Muhammed-Rabeeh-vk/m.rabeeh.vk-react-conditional-components#readme",
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.5.1",
+    "vite": "^6.3.5"
+  }
+}
